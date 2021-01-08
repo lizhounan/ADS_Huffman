@@ -1,0 +1,7 @@
+﻿  encoder.cpp
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\encoder.cpp(61,9): warning C4101: 'i': unreferenced local variable
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\encoder.cpp(63,9): warning C4101: 'fr': unreferenced local variable
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\encoder.cpp(101,9): warning C4101: 'i': unreferenced local variable
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\encoder.cpp(103,9): warning C4101: 'fr': unreferenced local variable
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\encoder.cpp(195,14): warning C4018: '<': signed/unsigned mismatch
+  huffman.vcxproj -> C:\Users\lizho\OneDrive\Desktop\ADS\huffman\Debug\huffman.exe

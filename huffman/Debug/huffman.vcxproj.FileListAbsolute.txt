@@ -1,0 +1,2 @@
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\Debug\huffman.exe
+C:\Users\lizho\OneDrive\Desktop\ADS\huffman\Debug\huffman.pdb
